@@ -1,0 +1,14 @@
+.cart-items p {
+    padding: 12.5px 0;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #2A414F;
+}
+
+.cart-items h3 {
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+}
